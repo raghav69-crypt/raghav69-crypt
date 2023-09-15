@@ -22,7 +22,7 @@
 - ✨ Fun Fact, I am a verse lyricist @ Eklavya Dairess.
 
  Connect with me:
- Email: raghavgupta241@gmail.com
+ Email: raghavgupta241@gmail.com 
  Leetcode: https://leetcode.com/raghavgupta69/
  Linkedin: https://www.linkedin.com/in/raghav-gupta-12a997135/
  GeeksForGeeks: https://auth.geeksforgeeks.org/user/raghavgupta241
@@ -30,6 +30,7 @@
  Languages and Tools:
  **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raghav69-crypt)](https://github.com/raghav69-crypt/github-readme-stats)
 
 
 
