@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Raghav Gupta.
+- 👋 Hello there!
 - 👀 I'm Raghav Gupta, a fervent software engineer from the vibrant city of Delhi.
   💡 In the realm of software engineering, I take immense pleasure in harnessing the power of technology to conquer intricate challenges and cultivate a culture of innovation. With a 
    continuous journey in the field, I've refined my expertise in software development, meticulous testing, and seamless deployment, all while staying at the forefront of the ever- 
    evolving tech landscape.
-  👋 Greetings! An unyielding passion for problem-solving and software engineering drives me. I've found my professional haven at CRM Masters Infotech LLP, where I continually 
+   Greetings! An unyielding passion for problem-solving and software engineering drives me. I've found my professional haven at CRM Masters Infotech LLP, where I continually 
    enrich and apply my skills as a dynamic asset across all facets of business.
-   💻 As a software engineer, my journey has been defined by an innate knack for tackling challenges head-on, an independent spirit, and an insatiable thirst for the ever-evolving tech 
+   As a software engineer, my journey has been defined by an innate knack for tackling challenges head-on, an independent spirit, and an insatiable thirst for the ever-evolving tech 
    landscape. Currently, I'm fortunate to be part of the CRM Masters Infotech LLP family, where I get to manifest these facets of my identity.
-   🛠️ My toolkit includes mastery of multiple programming languages, including C++, C, and JavaScript. Beyond that, I'm well-versed in full-stack technologies, 
+   My toolkit includes mastery of multiple programming languages, including C++, C, and JavaScript. Beyond that, I'm well-versed in full-stack technologies, 
    spanning from HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.
-   🌱 Beyond my professional endeavors, I'm an enthusiastic learner, consistently delving into the realms of technology, entrepreneurship, and innovation through literature. 
+   Beyond my professional endeavors, I'm an enthusiastic learner, consistently delving into the realms of technology, entrepreneurship, and innovation through literature. 
    Additionally, I take immense pride in my role as a dedicated volunteer, lending my time and expertise to various charitable organizations and causes. 
-  🙏 Thank you for taking a moment to explore my journey. I warmly extend an invitation to connect with me. Let's embark on a voyage where our paths may intertwine and forge new 
+   Thank you for taking a moment to explore my journey. I warmly extend an invitation to connect with me. Let's embark on a voyage where our paths may intertwine and forge new 
    opportunities.
 
 - 🌱 I’m currently working on Full-stack projects.
@@ -22,13 +22,16 @@
 - ✨ Fun Fact, I am a verse lyricist @ Eklavya Dairess.
 
  Connect with me:
-** Email: raghavgupta241@gmail.com
+ Email: raghavgupta241@gmail.com
  Leetcode: https://leetcode.com/raghavgupta69/
  Linkedin: https://www.linkedin.com/in/raghav-gupta-12a997135/
  GeeksForGeeks: https://auth.geeksforgeeks.org/user/raghavgupta241
- **
+
  Languages and Tools:
  **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
+
+
+
 
 <!---
 raghav69-crypt/raghav69-crypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
