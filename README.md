@@ -1,41 +1,36 @@
-<div align="center">
-    <h1>👋 Hi, I’m Raghav Gupta</h1>
-    <p>Passionate about Problem Solving and on a mission to find my next adventure as a Software Developer Engineer and Front-End Developer. I'm seeking an organization that provides a platform to enrich and utilize my skills as a valuable asset in every phase of business.</p>
-    <p>🌱 Currently immersed in Full Stack projects.</p>
-</div>
+- 👋 Hi, I’m Raghav Gupta.
+- 👀 I'm Raghav Gupta, a fervent software engineer from the vibrant city of Delhi.
+  💡 In the realm of software engineering, I take immense pleasure in harnessing the power of technology to conquer intricate challenges and cultivate a culture of innovation. With a 
+   continuous journey in the field, I've refined my expertise in software development, meticulous testing, and seamless deployment, all while staying at the forefront of the ever- 
+   evolving tech landscape.
+  👋 Greetings! An unyielding passion for problem-solving and software engineering drives me. I've found my professional haven at CRM Masters Infotech LLP, where I continually 
+   enrich and apply my skills as a dynamic asset across all facets of business.
+   💻 As a software engineer, my journey has been defined by an innate knack for tackling challenges head-on, an independent spirit, and an insatiable thirst for the ever-evolving tech 
+   landscape. Currently, I'm fortunate to be part of the CRM Masters Infotech LLP family, where I get to manifest these facets of my identity.
+   🛠️ My toolkit includes mastery of multiple programming languages, including C++, C, and JavaScript. Beyond that, I'm well-versed in full-stack technologies, 
+   spanning from HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.
+   🌱 Beyond my professional endeavors, I'm an enthusiastic learner, consistently delving into the realms of technology, entrepreneurship, and innovation through literature. 
+   Additionally, I take immense pride in my role as a dedicated volunteer, lending my time and expertise to various charitable organizations and causes. 
+  🙏 Thank you for taking a moment to explore my journey. I warmly extend an invitation to connect with me. Let's embark on a voyage where our paths may intertwine and forge new 
+   opportunities.
 
-<div align="center">
-    <h2>🤓 My Learning Journey</h2>
-    <p>📚 Mastering Data Structures and Algorithms in C++</p>
-    <p>⚙️ Exploring the depths of Backend Development</p>
-</div>
+- 🌱 I’m currently working on Full-stack projects.
+- 🤓 I'm currently learning Data structure and algorithms in C++ and backend development.
+- 💞️ I’m looking to collaborate on Front End projects.
+- 📫 How to reach me: Raghavgupta241@gmail.com
+- 🎗  I'm looking for collaboration in Front Development Projects.
+- ✨ Fun Fact, I am a verse lyricist @ Eklavya Dairess.
 
-<div align="center">
-    <h2>💞 Open to Collaborate</h2>
-    <p>🤝 Looking for exciting Front-End projects to work on collaboratively</p>
-</div>
+ Connect with me:
+** Email: raghavgupta241@gmail.com
+ Leetcode: https://leetcode.com/raghavgupta69/
+ Linkedin: https://www.linkedin.com/in/raghav-gupta-12a997135/
+ GeeksForGeeks: https://auth.geeksforgeeks.org/user/raghavgupta241
+ **
+ Languages and Tools:
+ **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
 
-<div align="center">
-    <h2>✨ Fun Fact</h2>
-    <p>I'm not just a developer, I'm a verse lyricist too! 🎤</p>
-</div>
-
-<div align="center">
-    <h2>📫 How to Reach Me</h2>
-    <p>Feel free to contact me at <a href="mailto:raghavgupta241@gmail.com">Raghavgupta241@gmail.com</a></p>
-</div>
-
-<div align="center">
-    <h2>🌟 Connect with Me</h2>
-    <p>
-        Email: <a href="mailto:raghavgupta241@gmail.com">raghavgupta241@gmail.com</a> | 
-        LeetCode: <a href="https://leetcode.com/raghavgupta69/">@raghavgupta69</a> | 
-        LinkedIn: <a href="https://www.linkedin.com/in/raghav-gupta-12a997135/">@raghav-gupta-12a997135</a> | 
-        GeeksForGeeks: <a href="https://auth.geeksforgeeks.org/user/raghavgupta241">@raghavgupta241</a>
-    </p>
-</div>
-
-<div align="center">
-    <h2>Languages and Tools</h2>
-    <p>HTML5, CSS3, C++, C, JavaScript, Data Structures in C++, React.js</p>
-</div>
+<!---
+raghav69-crypt/raghav69-crypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
