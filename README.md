@@ -33,7 +33,7 @@
  Languages and Tools:
  **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raghav69-crypt)](https://github.com/raghav69-crypt/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raghav69-crypt)](https://github.com/raghav69-crypt/github-readme-stats&theme=tokyonight)
 [![Raghav Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav69-crypt&show_icons=true&theme=radical)](https://github.com/raghav69-crypt/github-readme-stats)
 
 
