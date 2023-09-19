@@ -1,7 +1,7 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=raghav69-crypt.raghav69-crypt)
-[![Github](https://img.shields.io/github/followers/raghav69-crypt?label=Follow&style=social)](https://github.com/raghav69-crypt)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=raghav69-crypt.raghav69-crypt)
+  [![Github](https://img.shields.io/github/followers/raghav69-crypt?label=Follow&style=social)](https://github.com/raghav69-crypt)
 
-- 👋 Hello there!
+  👋 Hello there!
 - 👀 I'm Raghav Gupta, a fervent software engineer from the vibrant city of Delhi.
   💡 In the realm of software engineering, I take immense pleasure in harnessing the power of technology to conquer intricate challenges and cultivate a culture of innovation. With a 
    continuous journey in the field, I've refined my expertise in software development, meticulous testing, and seamless deployment, all while staying at the forefront of the ever- 
