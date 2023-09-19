@@ -1,3 +1,6 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=raghav69-crypt.raghav69-crypt)
+[![Github](https://img.shields.io/github/followers/raghav69-crypt?label=Follow&style=social)](https://github.com/raghav69-crypt)
+
 - 👋 Hello there!
 - 👀 I'm Raghav Gupta, a fervent software engineer from the vibrant city of Delhi.
   💡 In the realm of software engineering, I take immense pleasure in harnessing the power of technology to conquer intricate challenges and cultivate a culture of innovation. With a 
@@ -32,8 +35,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raghav69-crypt)](https://github.com/raghav69-crypt/github-readme-stats)
 [![Raghav Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav69-crypt&show_icons=true&theme=radical)](https://github.com/raghav69-crypt/github-readme-stats)
-![](https://visitor-badge.laobi.icu/badge?page_id=raghav69-crypt.raghav69-crypt)
-[![Github](https://img.shields.io/github/followers/raghav69-crypt?label=Follow&style=social)](https://github.com/raghav69-crypt)
+
 
 
 
