@@ -27,8 +27,8 @@
 - 🎗  I'm looking for collaboration in Front Development Projects.
 - ✨ Fun Fact, I am a verse lyricist @ Eklavya Dairess.
 
- Connect with me:<br>
- Email: <B>raghavgupta241@gmail.com<B><br>
+ Connect with me:<be>
+ <b>Email<b>: <B>raghavgupta241@gmail.com<B><br>
  Leetcode: <B>https://leetcode.com/raghavgupta69/<B><br>
  Linkedin: <B>https://www.linkedin.com/in/raghav-gupta-12a997135<B>/<br>
  GeeksForGeeks: <B>https://auth.geeksforgeeks.org/user/raghavgupta241<B><br>
