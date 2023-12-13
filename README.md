@@ -28,10 +28,10 @@
 - ✨ Fun Fact, I am a verse lyricist @ Eklavya Dairess.
 
  Connect with me:
- Email: raghavgupta241@gmail.com<br>
- Leetcode: https://leetcode.com/raghavgupta69/<br>
- Linkedin: https://www.linkedin.com/in/raghav-gupta-12a997135/<br>
- GeeksForGeeks: https://auth.geeksforgeeks.org/user/raghavgupta241<br>
+ Email: <B>raghavgupta241@gmail.com<B><br>
+ Leetcode: <B>https://leetcode.com/raghavgupta69/<B><br>
+ Linkedin: <B>https://www.linkedin.com/in/raghav-gupta-12a997135<B>/<br>
+ GeeksForGeeks: <B>https://auth.geeksforgeeks.org/user/raghavgupta241<B><br>
 
  Languages and Tools:
  **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
