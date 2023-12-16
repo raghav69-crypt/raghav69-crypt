@@ -12,11 +12,13 @@
   <BR>
    As a software engineer, my journey has been defined by an innate knack for tackling challenges head-on, an independent spirit, and an insatiable thirst for the ever-evolving tech 
    landscape. Currently, I'm fortunate to be part of the CRM Masters Infotech LLP family, where I get to manifest these facets of my identity.
+  <BR>
    My toolkit includes mastery of multiple programming languages, including C++, C, and JavaScript. Beyond that, I'm well-versed in full-stack technologies, 
    spanning from HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.
   <BR>
    Beyond my professional endeavors, I'm an enthusiastic learner, consistently delving into the realms of technology, entrepreneurship, and innovation through literature. 
-   Additionally, I take immense pride in my role as a dedicated volunteer, lending my time and expertise to various charitable organizations and causes. 
+   Additionally, I take immense pride in my role as a dedicated volunteer, lending my time and expertise to various charitable organizations and causes.
+  <BR>
    Thank you for taking a moment to explore my journey. I warmly extend an invitation to connect with me. Let's embark on a voyage where our paths may intertwine and forge new 
    opportunities.
 
