@@ -37,7 +37,7 @@
  GeeksForGeeks: <B>https://auth.geeksforgeeks.org/user/raghavgupta241<B><br>
 
  Languages and Tools:
- **C++, C, and JavaScript,HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
+ **C++, C, and JavaScript, HTML and CSS to Tailwind CSS, ReactJS, NodeJS, MySQL, and even Deluge.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav69-crypt&theme=tokyonight)
 
